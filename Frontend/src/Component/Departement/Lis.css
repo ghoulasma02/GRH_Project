@@ -1,0 +1,88 @@
+.lister{
+    margin-left: 400px;
+    margin-top: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+ 
+    
+
+}
+.lister tr th{
+   padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    background-color:#009AD2;
+    color: white;
+    border: 1px solid #ddd;
+    width:350px;
+}
+.lister td{
+    padding-left: 20px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    padding-top:10px;
+    border: 1px solid #ddd;
+    
+}
+.lister tr:nth-child(even){background-color: #f2f2f2;}
+.lister tr:hover {background-color: #ddd;}
+
+.lister .btn{
+    margin-bottom: 10px;
+    margin-left: 950px;
+    height: 50px;
+    width: 250px;
+}
+.ajout{
+    margin-left: 500px;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    margin-right: 350px;
+    background-color: #b3c0c5;
+    border-radius: 10px;
+    box-shadow: 10px 15px #888888;
+}
+
+.ajout label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-left: 250px;
+    
+}
+.ajout input{
+    padding: 20px;
+    width: 500px;
+    margin-bottom: 30px;
+    margin-left: 120px;
+     font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+   
+}
+option{
+    
+    width: 500px;
+   
+}
+ 
+
+.ajout #bb{ 
+    width: 500px;
+    height: 70px;
+    background-color: #009AD2;
+    border-color: #009AD2;
+    border-radius: 10px;
+    margin-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    color: white;
+
+}
+.lister button{
+    margin-left: 90px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: aqua;
+}

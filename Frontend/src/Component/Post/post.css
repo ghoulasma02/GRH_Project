@@ -1,0 +1,79 @@
+.ajoutP {
+    margin-top:200px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    margin-right: 350px;
+    background-color: #b3c0c5;
+    border-radius: 10px;
+    box-shadow: 10px 15px #888888;
+    
+}
+
+.ajoutP .su{margin-left: 650px;
+     margin-top: 50px;
+    height: 50px;
+    background-color:  #4aafda;
+border-color: aqua;
+color: antiquewhite;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;}
+.ajoutP input{
+    margin-top: 30px;
+    padding: 5px;
+    width: 200px;}
+ select{width: 200px;
+    padding: 5px;}
+.ajoutP label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    
+}
+.listerP{
+    margin-left: 300px;
+    margin-top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;}
+
+.listerP th{
+        padding-left: 20px;
+         padding-right: 50px;
+         padding-bottom: 5px;
+         padding-top:5px;
+         height: 60px;
+         background-color:#009AD2;
+         color: white;
+         border: 1px solid #ddd;
+        
+        
+     }
+.listerP td{
+        padding-left: 20px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+        padding-top:10px;
+        border: 1px solid #ddd;
+        font-family: Arial, Helvetica, sans-serif;
+         font-size: large;
+        
+    }
+    .listerP tr:nth-child(even){background-color: #f2f2f2;}
+    .listerP tr:hover {background-color: #ddd;}
+    .listerP table{  width: 123%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: large;}
+ .listerP .btn{
+            margin-bottom: 30px;
+            margin-left: 1450px;
+            height: 50px;
+            width: 250px;
+        }       
+.listerP button{
+           
+            width: 100px;
+            height: 40px;
+            border-radius: 10px;
+            border-color: aqua;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: large;
+            color: rgb(0, 0, 0);
+        }
